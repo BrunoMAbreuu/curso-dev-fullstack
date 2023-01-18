@@ -1,0 +1,17 @@
+body {
+    background: rgba(148, 147, 147, 0.411);
+}
+
+p {
+    color: rgb(114, 112, 112);
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #ffffff; /* shorthand */
+    border-radius: 50%;/* 10% 20% 50% */
+    /*border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    */
+}
